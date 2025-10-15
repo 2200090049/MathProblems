@@ -2,6 +2,10 @@
 
 This project contains 4 solved mathematical problems using HTML templates.
 
+## ✨ Features
+- Trigonometry problems with Pythagorean triplets
+- Compound Interest calculations
+
 ## 🌐 Live Demo
 Visit: https://2200090049.github.io/MathProblems/
 
